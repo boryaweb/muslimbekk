@@ -1,0 +1,150 @@
+* {
+    background-color: white;
+}
+
+.about {
+    margin-top: 20px;
+    /* width: 470px; */
+    color: black;
+    padding: 20px;
+    text-align: right;
+
+}
+
+.aboutt {
+    margin-top: 20px;
+    /* width: 470px; */
+    color: black;
+    padding: 20px;
+    text-align: right;
+    box-shadow: 0 0 10px #0ff;
+    transition: transform 0.3s;
+    border: 2px solid #00ffff;
+    box-shadow: 0 0 10px #00ffff;
+}
+
+
+.men {
+    text-decoration: none;
+    color: black;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    /* border-radius: 17px; */
+    margin-right: 5px;
+    font-family: 'Orbitron', sans-serif;
+    transition: 0.5s;
+}
+
+.men:hover {
+    color: #fa4444;
+}
+
+.men:active {
+    color: rgb(86, 162, 239);
+    /* transition: 0.5; */
+}
+
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+
+
+
+
+
+.project-1 {
+    color: white;
+}
+
+.project-2 {
+    color: white;
+}
+
+.job {
+    text-align: center;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width: 470px;
+    /* background: ; */
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px #0ff;
+    transition: transform 0.3s;
+    border: 2px solid #00ffff;
+    box-shadow: 0 0 10px #00ffff;
+}
+
+
+.project-1 {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width: 470px;
+    /* background: ; */
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px #0ff;
+    transition: transform 0.3s;
+    border: 2px solid #00ffff;
+    box-shadow: 0 0 10px #00ffff;
+}
+
+.project-2 {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width: 470px;
+    /* background: ; */
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px #0ff;
+    transition: transform 0.3s;
+    border: 2px solid #00ffff;
+    box-shadow: 0 0 10px #00ffff;
+}
+
+.ong{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width: 470px;
+    /* background: ; */
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    /* box-shadow: 0 0 10px #0ff; */
+    /* transition: transform 0.3s; */
+    /* border: 2px solid #00ffff; */
+    /* box-shadow: 0 0 10px #00ffff; */
+}
+
+.ota {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.batafsil  {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
